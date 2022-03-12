@@ -1,0 +1,10 @@
+1. Add dependency
+2. Create a Employe class
+3. Create hibernate.cfg.xml file to propvide the connection details
+4. Create the HIbernateUtil file to get sessionFactory referencewhich will be meant to give session object. 
+5. Write the main() to do following
+a. Create an object
+b. Get the session object 
+c. Get the transaction object
+d. Save the object using session object.
+f. Commit the transaction
